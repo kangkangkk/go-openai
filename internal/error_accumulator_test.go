@@ -3,9 +3,9 @@ package openai_test
 import (
 	"testing"
 
-	openai "github.com/meguminnnnnnnnn/go-openai/internal"
-	"github.com/meguminnnnnnnnn/go-openai/internal/test"
-	"github.com/meguminnnnnnnnn/go-openai/internal/test/checks"
+	openai "github.com/kangkangkk/go-openai/internal"
+	"github.com/kangkangkk/go-openai/internal/test"
+	"github.com/kangkangkk/go-openai/internal/test/checks"
 )
 
 func TestDefaultErrorAccumulator_WriteMultiple(t *testing.T) {

@@ -3,7 +3,7 @@ package jsonschema_test
 import (
 	"testing"
 
-	"github.com/meguminnnnnnnnn/go-openai/jsonschema"
+	"github.com/kangkangkk/go-openai/jsonschema"
 )
 
 // Test Definition.Unmarshal, including success path, validation error,

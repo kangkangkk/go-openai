@@ -8,9 +8,9 @@ import (
 	"io"
 	"net/http"
 
-	openai "github.com/meguminnnnnnnnn/go-openai/internal"
+	openai "github.com/kangkangkk/go-openai/internal"
 
-	"github.com/meguminnnnnnnnn/go-openai/jsonschema"
+	"github.com/kangkangkk/go-openai/jsonschema"
 )
 
 // Chat message role defined by the OpenAI API.

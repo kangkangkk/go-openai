@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/meguminnnnnnnnn/go-openai"
+	"github.com/kangkangkk/go-openai"
 	"github.com/stretchr/testify/assert"
 )
 

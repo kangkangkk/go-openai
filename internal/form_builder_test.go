@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/meguminnnnnnnnn/go-openai/internal/test/checks"
+	"github.com/kangkangkk/go-openai/internal/test/checks"
 )
 
 type mockFormBuilder struct {
